@@ -1,0 +1,3 @@
+- 👋 Hi Dear! I'm Baptista Jean Baptiste
+- 👀 I’m web front developer 
+- 🌱 I’m currently learning back-end
